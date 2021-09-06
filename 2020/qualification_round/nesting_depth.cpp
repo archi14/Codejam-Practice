@@ -12,7 +12,6 @@ we are at 4 currently,
 Similar to the example above, we know we already have s[i-1]  open bracket, but we need s[i]-s[i-1] more opening brackets
 to satify the opening bracket condition for s[i], also the number of closing bracket at the end have also increased 
 from closeCount+s[i]-s[i-1];  
-**/
 3. If s[i]<s[i-1]
 ex=> ((21
 we are at 1 currently
